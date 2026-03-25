@@ -11,7 +11,7 @@
 * 🌱 Currently learning **Data Structures & Algorithms (C++)**
 * 💡 Interested in **Machine Learning & AI Projects**
 * 🛠️ Skilled in **C, C++, Python**
-* 📊 Exploring real-world projects like **Sentiment Analysis & Image Processing**
+* 📊 Exploring real-world projects like **Sentiment Analysis & Real Estate App**
 
 ---
 
@@ -43,7 +43,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: [abhisheknagar9667@gmail.com](mailto:abhisheknagar9667@gmail.com)
-* 📱 Phone: 7878449950
+* 📱 Phone: +91 7878449950
 
 ---
 
